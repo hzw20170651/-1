@@ -1,2 +1,2 @@
 # 20170651huziwei
-ruanjiegongchengzuoye
+This is the code specification I wrote for C# program development,I hope you can read it and give suggestions.
