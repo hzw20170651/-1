@@ -1,2 +1,2 @@
 # C# code specification
-This is the code specification I wrote for C# program development,I hope you can read it and give suggestions.
+这是我为C#程序编码创建的一系列规范，其中包括了命名，缩进，注释等规范，参考了一些公司的编码规范并结合了一些自己的看法，并在规范最后附上了50行的编码实例。欢迎大家批评指正。
